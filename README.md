@@ -40,5 +40,5 @@
 <a href="https://replit.com/@gamingpissa530/GHOST-MD-2#index.js"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/ghostmd_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/GHOST-V1-MD/GHOST-MD)
+ [![nima](https://img.shields.io/badge/MR-DASA-MD_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/MR-DASA-V1-MD/MR-DASA-MD)
 
