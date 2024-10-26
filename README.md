@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@mr_dasa-yt?si=yMADBPfi_9NwYmgu">
-    <img alt="MR DASA-MD" height="300" src="https://files.catbox.moe/hqvp3k.jpg">
+    <img alt="MR DASA-MD" height="300" src="https://files.catbox.moe/1biike.jpg">
 
     
 
