@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name GHOST-MD",
-    "stop": "pm2 stop GHOST-MD",
-    "restart": "pm2 restart GHOST-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name MR DASA-MD",
+    "stop": "pm2 stop MR DASA-MD",
+    "restart": "pm2 restart MR DASA-MD"
   },
   "keywords": ["MR DASA", "whatsapp-bot", "whatsapp md bot"],
   "author": "MR DASA-Xsid",
