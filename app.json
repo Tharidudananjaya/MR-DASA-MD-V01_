@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (GHOST-MD)",
+  "name": "whatsapp-bot (MR DASA-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/GHOST-V1-MD/GHOST-MD.git",
+  "repository": "https://github.com/Tharidudananjaya/MR-DASA-MD-V01_",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
