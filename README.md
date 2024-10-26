@@ -36,6 +36,9 @@
 <img src="https://files.catbox.moe/xebapg.jpg" width=80 height=80></a>   
 - [**❯MR-DASA Whatsapp channel❮**](https://whatsapp.com/channel/0029VafPRIHIHphCGVuZEb0T)
 - [**❯MR-DASA Whatsapp GROUP❮**](https://chat.whatsapp.com/BkU7jMTNyKzDC7NUxEkHZ1)
+-  [**❯MR-DASA Youtube  channel❮**](https://youtube.com/@mr_dasa-yt?si=mMN4nd1vqvzWRrB7)
+-  [**❯MR-DASA Facebook account❮**](https://www.facebook.com/profile.php?id=100089545144215))
+
 ##  PAIRING CODE SCAN
 <a href="https://replit.com/@gamingpissa530/GHOST-MD-2#index.js"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
