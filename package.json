@@ -1,7 +1,7 @@
 {
-  "name": "GHOST-MD",
+  "name": "MR DASA-MD",
   "version": "10.8.1",
-  "description": "GHOST-MD latest multi device whatsapp bot",
+  "description": "MR DASA-MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,8 +9,8 @@
     "stop": "pm2 stop GHOST-MD",
     "restart": "pm2 restart GHOST-MD"
   },
-  "keywords": ["ghost-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "GHOST-Xsid",
+  "keywords": ["MR DASA", "whatsapp-bot", "whatsapp md bot"],
+  "author": "MR DASA-Xsid",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
