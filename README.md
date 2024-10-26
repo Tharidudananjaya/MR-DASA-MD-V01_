@@ -34,7 +34,7 @@
 - [**❯𝐌𝐑 𝐃𝐀𝐒𝐀-𝐂𝐎𝐍𝐓𝐀𝐂𝐓-𝐈𝐃❮**](https://wa.me/+94729280674?text=*❝𝙷𝙴𝚈-𝙼𝚁-𝙳𝙰𝚂𝙰-𝙱𝙾𝚃-𝙾𝚆𝙽𝙴𝚁❞⛺*)
 # 𝐌𝐑 𝐃𝐀𝐒𝐀 WHATSAPP CHANNEL👇:
 <img src="https://files.catbox.moe/xebapg.jpg" width=80 height=80></a>   
-- [**❯MR-DASA Whatsapp channel❮**]([https://whatsapp.com/channel/0029VafPRIHIHphCGVuZEb0T]
+- [**❯MR-DASA Whatsapp channel❮**](https://whatsapp.com/channel/0029VafPRIHIHphCGVuZEb0T)
 -
 ##  PAIRING CODE SCAN
 <a href="https://replit.com/@gamingpissa530/GHOST-MD-2#index.js"><img src="https://pair-web-public.koyeb.app/" alt="LOGIN WITH PAIR CODE" width="250"></a>
